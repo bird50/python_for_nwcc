@@ -1,0 +1,12 @@
+@import 'https://fonts.googleapis.com/css?family=Kanit|Prompt|Taviraj';
+body{
+    font-family: 'Taviraj', sans-serif;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: center;    
+  }
